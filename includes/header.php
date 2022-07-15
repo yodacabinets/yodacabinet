@@ -141,14 +141,6 @@ if(isset($_GET['pro_id'])){
                    
                </button>
                
-               <button class="navbar-toggle" data-toggle="collapse" data-target="#search">
-                   
-                   <span class="sr-only">Toggle Search</span>
-                   
-                   <i class="fa fa-search"></i>
-                   
-               </button>
-               
            </div><!-- navbar-header Finish -->
            
            <div class="navbar-collapse collapse" id="navigation"><!-- navbar-collapse collapse Begin -->
